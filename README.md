@@ -6,6 +6,7 @@ a software tool for annual report with photo collage
 Developers:
 Adrian Cris Gallano
 
+
 Project Manager:
 Adrian Cris Gallano
 ```
