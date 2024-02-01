@@ -4,6 +4,7 @@ a software tool for annual report with photo collage
 ## Roles
 ```
 Developers:
+Kent Baliw
 Adrian Cris Gallano
 
 
