@@ -4,7 +4,7 @@ a software tool for annual report with photo collage
 ## Roles
 ```
 Developers:
-hayp ka eunille
+Belen Kent Harold D.
 Apo Eunille Jan B.
 Adrian Cris Gallano
 
